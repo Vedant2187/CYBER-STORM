@@ -1,0 +1,106 @@
+.m1p {
+    background-color: brown
+}
+
+.m2p {
+    background-color:yellow
+
+}
+
+.m3p {
+    background-color:orange
+
+}
+
+.m4p {
+    background-color:blue
+
+}
+
+.m5p {
+    background-color:cyan
+
+}
+.positive{
+    background-color: green;
+}
+.negative{
+    background-color: red;
+}
+.m1n{
+    background-color: crimson;
+}
+.m2n{
+    background-color: violet;
+}
+.m3n{
+    background-color: firebrick;
+}
+.m4n{
+    background-color: mediumspringgreen;
+}
+.m5n{
+    background-color: palegoldenrod;
+}
+.heart{
+    height: 25px;
+    width: 25px;
+    position: relative ;top: 50px; left: 10px;
+    border-radius: 50%;
+}
+.heart2{
+    height: 25px;
+    width: 25px;
+    position: relative ;top: 115px; right: 20px;
+    border-radius: 50%;
+}
+.heart3{
+    height: 25px;
+    width: 25px;
+    position: relative ;top: 175px; right: 45px;
+    border-radius: 50%;
+}
+.heart4{
+    height: 25px;
+    width: 25px;
+    position: relative ;top: 235px; right: 75px;
+    border-radius: 50%;
+}
+.heart5{
+    height: 25px;
+    width: 25px;
+    position: relative ;top: 295px; right: 105px;
+    border-radius: 50%;
+}
+.lion1{
+    height: 25px;
+    width: 25px;
+    position: relative; top: 540px; right: 133px;
+}
+.lion2{
+    height: 25px;
+    width: 25px;
+    position: relative; top: 600px; right: 163px;
+}
+.lion3{
+    height: 25px;
+    width: 25px;
+    position: relative; top: 660px; right: 193px;
+}
+.lion4{
+    height: 25px;
+    width: 25px;
+    position: relative; top: 720px; right: 223px;
+}
+.lion5{
+    height: 25px;
+    width: 25px;
+    position: relative; top: 780px; right: 253px;
+}
+.age{
+    color: green;
+    text-decoration: black;
+}
+.questions{
+    background-color: coral;
+}
